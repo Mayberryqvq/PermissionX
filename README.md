@@ -4,4 +4,4 @@
 
 目前已封装的权限有：拨打电话权限
 
-PermissionX is an android open source library, which can help you the invoke the run-time permissions more effectively and concisely.
+PermissionX is an android open source library, which can help you invoke the run-time permissions more effectively and concisely.
